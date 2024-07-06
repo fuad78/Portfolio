@@ -770,4 +770,15 @@ p {
 	text-decoration: none;
 	border-bottom: 1px solid #000;
   }
+  Address {
+	color: #800080; /* Example color: purple */
+	font-style: italic;
+	font-size: 16px; 
+	text-align: center;
+	margin-top: 20px;
+  }
   
+  /* Optional: Style the address container (p tag in this case) */
+  Address p {
+	font-family: Arial, sans-serif; 
+  } 
