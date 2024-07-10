@@ -726,7 +726,7 @@ p {
   }
   
   .blog-header .section-title {
-	font-size: 80px;
+	font-size: 50px;
 	font-weight: bold;
   }
   
@@ -778,7 +778,3 @@ p {
 	margin-top: 20px;
   }
   
-  /* Optional: Style the address container (p tag in this case) */
-  Address p {
-	font-family: Arial, sans-serif; 
-  } 
