@@ -580,6 +580,7 @@ p {
 	#hero h1 {
 		font-size: 7rem;
 	}
+}
 	/* End Hero */
 
 	/* Services Section */
@@ -668,7 +669,7 @@ p {
 		padding-left: 20px;
 	}
 	/* End contact  */
-}
+
 /* End Media Query For Tablet */
 
 /* Media Query For Desktop */
@@ -777,4 +778,4 @@ p {
 	text-align: center;
 	margin-top: 20px;
   }
-  
+}
